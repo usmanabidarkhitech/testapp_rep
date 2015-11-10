@@ -11,9 +11,9 @@ class ArticlesController < ApplicationController
   def create
     @article = Article.new(article_params)
     if @article.save
-      redirect_to 'path where to move next'
+      redirect_to 'welcome_controller'
     else
-      render 'new'
+      render 'welcome_controller'
     end
   end
 

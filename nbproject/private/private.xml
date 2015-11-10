@@ -3,28 +3,37 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/arkhitech/Desktop/testapp/public/404.html</file>
+            <file>file:/home/arkhitech/Desktop/testapp/db/migrate/20151109065856_create_books.rb</file>
+            <file>file:/home/arkhitech/Desktop/testapp/app/views/welcome/about.html.erb</file>
             <file>file:/home/arkhitech/Desktop/testapp/bin/rake</file>
             <file>file:/home/arkhitech/Desktop/testapp/public/robots.txt</file>
             <file>file:/home/arkhitech/Desktop/testapp/public/500.html</file>
             <file>file:/home/arkhitech/Desktop/testapp/app/helpers/next_helper.rb</file>
-            <file>file:/home/arkhitech/Desktop/testapp/config/boot.rb</file>
             <file>file:/home/arkhitech/Desktop/testapp/config/environments/production.rb</file>
-            <file>file:/home/arkhitech/Desktop/testapp/log/development.log</file>
+            <file>file:/home/arkhitech/Desktop/testapp/config/boot.rb</file>
             <file>file:/home/arkhitech/Desktop/testapp/public/422.html</file>
             <file>file:/home/arkhitech/Desktop/testapp/app/views/layouts/application.html.erb</file>
             <file>file:/home/arkhitech/Desktop/testapp/app/assets/stylesheets/application.css</file>
             <file>file:/home/arkhitech/Desktop/testapp/app/controllers/welcome_controller.rb</file>
-            <file>file:/home/arkhitech/Desktop/testapp/app/controllers/application_controller.rb</file>
             <file>file:/home/arkhitech/Desktop/testapp/app/controllers/articles_controller.rb</file>
-            <file>file:/home/arkhitech/Desktop/testapp/app/views/articles/new.html.erb</file>
-            <file>file:/home/arkhitech/Desktop/testapp/app/helpers/articles_helper.rb</file>
             <file>file:/home/arkhitech/Desktop/testapp/Gemfile</file>
             <file>file:/home/arkhitech/Desktop/testapp/app/views/welcome/index.html.erb</file>
-            <file>file:/home/arkhitech/Desktop/testapp/config/routes.rb</file>
-            <file>file:/home/arkhitech/Desktop/testapp/app/assets/javascripts/application.js</file>
-            <file>file:/home/arkhitech/Desktop/testapp/config/environments/development.rb</file>
+            <file>file:/home/arkhitech/Desktop/testapp/app/models/book.rb</file>
             <file>file:/home/arkhitech/Desktop/testapp/public/favicon.ico</file>
+            <file>file:/home/arkhitech/Desktop/testapp/app/models/article.rb</file>
+            <file>file:/home/arkhitech/Desktop/testapp/public/404.html</file>
+            <file>file:/home/arkhitech/Desktop/testapp/log/development.log</file>
+            <file>file:/home/arkhitech/Desktop/testapp/app/views/books/index.html.erb</file>
+            <file>file:/home/arkhitech/Desktop/testapp/app/controllers/application_controller.rb</file>
+            <file>file:/home/arkhitech/Desktop/testapp/app/views/books/new.html.erb</file>
+            <file>file:/home/arkhitech/Desktop/testapp/app/helpers/articles_helper.rb</file>
+            <file>file:/home/arkhitech/Desktop/testapp/app/views/articles/new.html.erb</file>
+            <file>file:/home/arkhitech/Desktop/testapp/config/environment.rb</file>
+            <file>file:/home/arkhitech/Desktop/testapp/app/assets/javascripts/application.js</file>
+            <file>file:/home/arkhitech/Desktop/testapp/config/routes.rb</file>
+            <file>file:/home/arkhitech/Desktop/testapp/config/environments/development.rb</file>
+            <file>file:/home/arkhitech/Desktop/testapp/config/database.yml</file>
+            <file>file:/home/arkhitech/Desktop/testapp/app/controllers/books_controller.rb</file>
         </group>
     </open-files>
 </project-private>
