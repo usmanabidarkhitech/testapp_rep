@@ -21,8 +21,10 @@
             <file>file:/home/arkhitech/Desktop/testapp/app/models/book.rb</file>
             <file>file:/home/arkhitech/Desktop/testapp/public/favicon.ico</file>
             <file>file:/home/arkhitech/Desktop/testapp/app/models/article.rb</file>
+            <file>file:/home/arkhitech/Desktop/testapp/app/views/books/_form.html.erb</file>
             <file>file:/home/arkhitech/Desktop/testapp/public/404.html</file>
             <file>file:/home/arkhitech/Desktop/testapp/log/development.log</file>
+            <file>file:/home/arkhitech/Desktop/testapp/app/views/books/edit.html.erb</file>
             <file>file:/home/arkhitech/Desktop/testapp/app/views/books/index.html.erb</file>
             <file>file:/home/arkhitech/Desktop/testapp/app/controllers/application_controller.rb</file>
             <file>file:/home/arkhitech/Desktop/testapp/app/views/books/new.html.erb</file>
